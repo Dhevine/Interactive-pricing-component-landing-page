@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="./images/favicon-32x32.png"
+    />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Manrope:wght@600;800&display=swap"
+      rel="stylesheet"
+    />
+
+    <link rel="stylesheet" href="./style.css" />
+
+    <script defer src="./script.js"></script>
+
+    <title>Frontend Mentor | Interactive pricing component</title>
+  </head>
+  <body>
+    <div class="container">
+      <section class="first__section">
+        <h3>Simple, traffic-based pricing</h3>
+        <div id="first-text">
+          <p>Sign-up for our 30-days trial.</p>
+          <p>No credit card required.</p>
+        </div>
+      </section>
+
+      <article class="second__section">
+        <h3 id="title">100K PAGEVIEWS</h3>
+
+        <div class="range--box">
+          <input type="range" name="" id="range" />
+          <div class="line"></div>
+        </div>
+
+        <h3 id="price-tag">$16.00<span>/ month</span></h3>
+
+        <div id="billing__duration">
+          <hp>Monthly Billing</hp>
+          <div class="enabled-tag"><div class="enabled__btn"></div></div>
+          <p>Yearly Billing</p>
+          <div id="discount-tag">
+            <span>-25%</span><span id="discount-title"> discount</span>
+          </div>
+        </div>
+
+        <div class="last--section">
+          <ul id="last--list">
+            <li>
+              <span><img src="./images/icon-check.svg" alt="" /></span>
+              Unlimited websites
+            </li>
+            <li>
+              <span><img src="./images/icon-check.svg" alt="" /></span> 100%
+              data ownership
+            </li>
+            <li>
+              <span><img src="./images/icon-check.svg" alt="" /></span> Email
+              reports
+            </li>
+          </ul>
+
+          <button id="btn">Start my trial</button>
+        </div>
+      </article>
+    </div>
+  </body>
+</html>
