@@ -31,6 +31,13 @@
   gap: 1rem;
 }
 
+.header-text{
+  font-family: var(--variant-font);
+  font-size: 1.5rem;
+  font-weight: 800;
+  margin: 20px 0;
+}
+
 .first__section {
   text-align: center;
   background: url(./images/pattern-circles.svg);
@@ -39,6 +46,12 @@
   background-size: contain;
   line-height: 1.5rem;
   padding: 1.4rem 0;
+}
+
+#first-text{
+  font-family: var(--variant-font);
+  font-weight: 600;
+  font-size: 1rem;
 }
 
 .second__section {
@@ -59,6 +72,8 @@
 
 #title {
   font-size: 1rem;
+  font-family: var(--variant-font);
+  font-weight: 600;
 }
 
 #price-tag {
@@ -67,6 +82,8 @@
   display: flex;
   justify-content: center;
   gap: 10px;
+  font-family: var(--variant-font);
+  font-weight: 800;
 }
 
 #price-tag span {
@@ -117,6 +134,8 @@
   /* gap: 1rem; */
   font-size: 0.8rem;
   /* flex-wrap: wrap; */
+  font-family: var(--variant-font);
+  font-weight: 600;
 }
 
 #discount-tag {
@@ -144,6 +163,8 @@
   display: flex;
   flex-direction: column;
   gap: 0.5rem;
+  font-family: var(--variant-font);
+  /* font-weight: 600; */
 }
 
 #last--list span {
@@ -157,6 +178,8 @@
   border-radius: 35px;
   background-color: var(--Dark-Desaturated-Blue);
   color: var(--Pale-Blue);
+  font-family: var(--variant-font);
+  
 }
 
 .range--box {
