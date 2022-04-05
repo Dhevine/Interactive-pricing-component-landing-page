@@ -32,8 +32,7 @@ Users should be able to:
 ![Picture of the project](./images/screenshot.png)
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [interactive pricing component landing page](https://interactive-pricing-component-page.netlify.app)
 
 ### Built with
 
