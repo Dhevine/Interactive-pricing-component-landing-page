@@ -33,6 +33,7 @@ Users should be able to:
 ### Links
 
 - Live Site URL: [interactive pricing component landing page](https://interactive-pricing-component-page.netlify.app)
+- Github page : [interactive pricing component landing page](https://dhevine.github.io/Interactive-pricing-component-landing-page/)
 
 ### Built with
 
