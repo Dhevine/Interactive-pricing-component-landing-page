@@ -54,7 +54,7 @@ I learnt how to use CSS support property to tweak some styles on different brows
 ```
 ### Useful resources
 
-- [Caniuse](https://caniuse.com/css-supports-api) - This helped me check for broswers compatibility for CSS support property. 
+- [Caniuse](https://caniuse.com/css-supports-api) - This helped me check for browsers compatibility for CSS support property. 
 
 ## Author
 - Twitter - [@yourusername](https://www.twitter.com/Dhevine_0X)
