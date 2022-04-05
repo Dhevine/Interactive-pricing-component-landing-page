@@ -266,6 +266,17 @@ div .discount-tag--disabled{
   /* transform: translateY(5px); */
 }
 
+@supports (-moz-appearance: none){
+  .line {
+    background-color: red;
+    background-color: var(--Strong-Cyan);
+  }
+
+  #range::-moz-range-thumb{
+    background-image: none;
+  }
+}
+
 
 
 @media screen and (min-width: 800px) {
