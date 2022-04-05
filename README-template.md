@@ -10,7 +10,6 @@ This is a solution to the [Interactive pricing component challenge on Frontend M
     - [The challenge](#the-challenge)
     - [Screenshot](#screenshot)
     - [Links](#links)
-  - [My process](#my-process)
     - [Built with](#built-with)
     - [What I learned](#what-i-learned)
     - [Useful resources](#useful-resources)
@@ -35,8 +34,6 @@ Users should be able to:
 
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-
-## My process
 
 ### Built with
 
