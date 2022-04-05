@@ -46,7 +46,7 @@ Users should be able to:
 
 ### What I learned
 
-I learnt how to use CSS suport property to tweak some styles on different browser
+I learnt how to use CSS support property to tweak some styles on different browser
 
 ```css
 @supports (-moz-appearance: none){
@@ -57,7 +57,7 @@ I learnt how to use CSS suport property to tweak some styles on different browse
 ```
 ### Useful resources
 
-- [Caniuse](https://caniuse.com/css-supports-api) - This helped me check for broswer support for CSS support property. 
+- [Caniuse](https://caniuse.com/css-supports-api) - This helped me check for broswers compatibility for CSS support property. 
 
 ## Author
 - Twitter - [@yourusername](https://www.twitter.com/Dhevine_0X)
