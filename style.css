@@ -98,9 +98,9 @@
 }
 
 #price-tag .price{
-  font-size: 1.3rem;
+  font-size: 2rem;
   color: var(--Dark-Desaturated-Blue);
-  font-weight: 800;
+  font-weight: 600;
 }
 
 .enabled-tag {
